@@ -3,10 +3,10 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-        Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
-        debitis est autem aperiam necessitatibus beatae assumenda illo rem
-        architecto quis dolor quae.
+      Sempre me esforcei para alcançar meus objetivos
+      laborais, visando constantemente o meu
+      aprimoramento profissional.
+
       </p>
     </section>
   );
